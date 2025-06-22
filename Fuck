@@ -1,0 +1,106 @@
+<video width="320" height="240" controls>
+  <source src="video.mp4" type="video/mp4">
+  المتصفح لا يدعم عرض الفيديو.
+</video>
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>XVIDEOZ - فيديوهاتك</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f0f0f0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .videos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+      margin-top: 30px;
+    }
+    .video-box {
+      background: #fff;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    video {
+      width: 100%;
+      border-radius: 8px;
+    }
+    p {
+      text-align: center;
+      margin-top: 10px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎬 مرحباً بك في XVIDEOZ</h1>
+
+  <div class="videos">
+
+    <!-- فيديو تجريبي 1 -->
+    <div class="video-box">
+      <video controls>
+        <source src="https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4" type="video/mp4">
+        المتصفح لا يدعم تشغيل الفيديو.
+      </video>
+      <p>فيديو تجريبي 1</p>
+    </div>
+
+    <!-- فيديو تجريبي 2 -->
+    <div class="video-box">
+      <video controls>
+        <source src="https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4" type="video/mp4">
+        المتصفح لا يدعم تشغيل الفيديو.
+      </video>
+      <p>فيديو تجريبي 2</p>
+    </div>
+
+  </div>
+
+</body>
+</html>
+🧠 إزاي تضيفه في GitHub؟
+ادخل على الريبو: XVIDEOZ
+
+اضغط على index.html
+
+اضغط على أيقونة ✏️ (Edit this file)
+
+امسح كل اللي جواه، وحط الكود اللي فوق
+
+انزل واضغط: ✅ Commit changes
+
+🎉 بعد ثواني:
+افتح موقعك:
+
+https://hamo444.github.io/XVIDEOZ
+
+وهتشوف الفيديوهات ظاهرة 💥
+
+جاهز أنفذها لك؟ أو تحب تبعتها لي أضيفها لك بنفسي؟
+
+
+
+
+
+
+
+
+
+
+
+الأدوات
+
+
+
+يمكن أن تصدر عن 
